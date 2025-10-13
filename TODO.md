@@ -40,8 +40,7 @@ obiettivi:
 
 ---
 
-## Settimana 2:
-tema: "LINQ, collezioni e metodi di estensione"
+## Settimana 2: "LINQ, collezioni e metodi di estensione"
 obiettivo: "Allenarsi con le query LINQ e creare metodi di estensione personalizzati."
 
 ### Giorno  6:
@@ -72,8 +71,7 @@ obiettivi:
 
 ---
 
-### Settimana 3:
-tema: "Async/Await, Generics e Delegati"
+## Settimana 3: "Async/Await, Generics e Delegati"
 obiettivo: "Gestire concorrenza, task asincroni e programmazione generica."
 ### Giorno  11:
 focus: "Introduzione a async/await"
@@ -106,8 +104,7 @@ obiettivi:
 
 ---
 
-### Settimana 4:
-tema: "Design Pattern fondamentali"
+## Settimana 4: "Design Pattern fondamentali"
 obiettivo: "Applicare i pattern principali per strutturare il codice in modo professionale."
 
 ### Giorno  16:
