@@ -110,10 +110,3 @@ Crea un sistema di **undo/redo** per un editor di testo semplice:
 - Gestisci una stack per undo e redo.
 
 ---
-
-## 🏁 Prossimi Passi
-1. Segui la **roadmap settimanale** (in arrivo).
-2. Lavora sugli esercizi in ordine crescente di complessità.
-3. Consulta le **soluzioni passo passo** (in arrivo) per confrontare la tua implementazione.
-
----
