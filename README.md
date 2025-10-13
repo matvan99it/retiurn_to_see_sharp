@@ -1,7 +1,7 @@
 # retiurn_to_see_sharp
 C# exercises to restart from where i stopeed
 
-Gli esercizi sono suddivisi in **5 moduli tematici**, ciascuno con sfide di livello medio/alto e obiettivi bonus per migliorare le tue competenze.
+Gli esercizi sono suddivisi in **5 moduli tematici**
 
 ---
 
