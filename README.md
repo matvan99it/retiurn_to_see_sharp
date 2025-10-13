@@ -110,3 +110,6 @@ Crea un sistema di **undo/redo** per un editor di testo semplice:
 - Gestisci una stack per undo e redo.
 
 ---
+
+✍️ **Autore:** ChatGPT (per esercitazione personale)  
+📅 **Ultimo aggiornamento:** 13 Ottobre 2025
