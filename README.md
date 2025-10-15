@@ -5,7 +5,7 @@ Gli esercizi sono suddivisi in **5 moduli tematici**
 
 ---
 
-## 🧩 Modulo 1 – OOP Avanzata
+## 🧩 Modulo 1 – OOP Avanzata COMPLETATO
 
 ### 🧱 Esercizio 1: Sistema di noleggio veicoli
 Crea un’app console che gestisce un sistema di noleggio auto:
@@ -19,7 +19,7 @@ Crea un’app console che gestisce un sistema di noleggio auto:
 
 ---
 
-### 🧱 Esercizio 2: Gestione dipendenti con ereditarietà e interfacce
+### 🧱 Esercizio 2: Gestione dipendenti con ereditarietà e interfacce COMPLETATO
 Crea un sistema per gestire un’azienda:
 - Classe astratta `Dipendente` con proprietà comuni e metodo `CalcolaStipendio()`.
 - Derivate: `Impiegato`, `Manager`, `Tecnico`.
@@ -32,7 +32,7 @@ Crea un sistema per gestire un’azienda:
 
 ## ⚙️ Modulo 2 – LINQ e Collezioni
 
-### 💡 Esercizio 3: Analisi di dati con LINQ
+### 💡 Esercizio 3: Analisi di dati con LINQ COMPLETATO
 Dato un elenco di ordini (`Order` con `Cliente`, `Importo`, `Data`, `Categoria`):
 - Trova i 3 clienti che spendono di più.
 - Raggruppa per categoria e calcola la media degli importi.
