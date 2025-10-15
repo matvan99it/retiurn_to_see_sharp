@@ -7,7 +7,7 @@ namespace Week1_OOP {
     {
         public string Targa { get; }
         public string Modello { get; }
-        public double PrezzoGiornaliero { get; set; }
+        public double PrezzoGiornaliero { get; set; } 
 
         public Veicolo(string targa, string modello, double prezzoGiornaliero)
         {
@@ -110,6 +110,7 @@ namespace Week1_OOP {
 
             info.DataFine = DateTime.Now;
             // eventualmente puoi aggiornare GiorniNoleggio se vuoi basarti su data inizio/fine
+            
             veicoliDisponibili.Add(veicolo);
 
             return $"Veicolo {veicolo} restituito con successo. Giorni noleggiati: {info.GiorniNoleggio}";
