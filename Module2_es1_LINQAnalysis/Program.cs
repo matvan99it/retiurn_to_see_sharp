@@ -101,6 +101,7 @@ namespace Module2_es1_LINQAnalysis
             // 🎯 BONUS – Query Expression equivalente
             // ─────────────────────────────────────────────
             var queryExpression =
+                
                 from o in ordini
                 where o.DataOrdine >= unmesefa
                 orderby o.DataOrdine descending

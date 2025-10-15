@@ -218,6 +218,29 @@ namespace Week1_OOP {
 
             Console.WriteLine("\nPremi un tasto per uscire...");
             Console.ReadKey();
+
+
+            /**DELEGATI*/
+            Pippo p = Paperino;
+
+            p.Invoke(3, 4);
+            p(4, 5);
+        }
+        static void Paperino(int x, int y)
+        {
+            Console.WriteLine("PORCODIO");
         }
     }
+
+
+    delegate void Pippo(int x, int y); // firma di un metodo
+
+
+    
+
+
+
+
+
+
 }
